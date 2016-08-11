@@ -11,7 +11,7 @@ List of courses
 
 * Object Oriented Software Development Laboratory (CSE 332S)
 
-* Advanced Algorithms (CSE 441T)
+* Advanced Algorithms (CSE 441T) (Code not available)
 
 #### Graduate-Level Courses
 
@@ -55,7 +55,7 @@ _Course description:_   An advanced course on the topic of algorithms and data s
 
 _Professors:_   [Robert Pless](http://www.cs.wustl.edu/~pless/)
 
-_Course Site:_   http://www.cs.wustl.edu/~pless/441/syllabus.html
+_Course Site:_   http://www.cs.wustl.edu/~pless/441/
 
 _Language(s) Used:_   N/A
 
