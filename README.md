@@ -20,7 +20,7 @@ List of courses
 * Data Mining (CSE 514A) (Code not available)
 
 * Machine Learning (CSE 517A)
-
+------------
 
 ### Computer Science I (CSE 131) ###
 
