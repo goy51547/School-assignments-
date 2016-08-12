@@ -7,9 +7,9 @@ List of courses
 ------------
 #### Undergraduate-level Courses
 
-* Computer Science I (CSE 131) (Code not available)
+* Computer Science I (CSE 131) 
 
-* Object Oriented Software Development Laboratory (CSE 332S)
+* Object Oriented Software Development Laboratory (CSE 332S) (Code not available)
 
 * Advanced Algorithms (CSE 441T) (Code not available)
 
